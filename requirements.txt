@@ -1,0 +1,10 @@
+pypdf
+nltk
+openai
+langchain
+chromadb
+arxiv
+tiktoken
+pymupdf
+python-dotenv
+jupyter
